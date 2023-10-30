@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hands-on experience in multiple areas including server configuration, web development, shell scripting, and game development. An ac- complished software developer with over two years of experience in the field, known for the ability to solve complex problems with preci- sion and analytical thinking. Dedicated to meeting demanding de- velopment objectives within tight schedules while consistently deliver- ing impeccable code.
+Hands-on experience in multiple areas including server configuration, web development, shell scripting, and game development. An accomplished software developer with over two years of experience in the field, known for the ability to solve complex problems with precision and analytical thinking. Dedicated to meeting demanding development objectives within tight schedules while consistently delivering impeccable code.
 
 
 ## 🌐 Socials:
